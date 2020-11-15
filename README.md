@@ -5,7 +5,7 @@ $ git clone https://github.com/swJava2018/lec_nodejs.git
 ```
 
 깃이 설치되어 있지 않다면, "Desktop Down"을 클릭하여 코드를 로컬에 다운  
-code 버튼 > download zip 
+**code 버튼 > download zip**
 
 # nodejs 설치
 ```
